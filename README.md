@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @data-ane
-- 👀 I’m interested in machine learning and data science
+- 👀 I’m interested in AI and data science
 - 🌱 I’m currently learning more about GenAI
 
 <!---
